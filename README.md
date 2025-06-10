@@ -61,3 +61,4 @@ This project is built with:
 ## How can I deploy this project?
 
 through render:https://render.com/
+"# mini2" 
